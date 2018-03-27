@@ -1,0 +1,624 @@
+GitHub contributors:
+--------------------------------
+- (d)oekia
+- 0kph
+- 123monsite-regis
+- 1RV34
+- Abdelaziz JRIBI
+- Adonis Karavokyros
+- Adrien
+- Adrien Astier
+- Agence CINS
+- Agnes
+- Alban DEFLANDRE
+- Alban L
+- Aleksander Palyan
+- Alessandro Corbelli
+- Alex Even
+- Alex Sampaio
+- Alexander Galaydyuk
+- Alexander Grosul
+- Alexander Otchenashev
+- Alexander Simonchik
+- Alexandr Simonchik
+- Alexandra Even
+- Alexandre Alouit
+- Alexandre Segura
+- alexdee2007
+- AlexEven
+- Alexey Svistunov
+- alexey-svistunov
+- alexsimple
+- Alfakom-MK
+- Alfonso Jimenez
+- AliShareei
+- Alphacom IT Solutions - Macedonia
+- amatosg
+- Amazzing
+- anat
+- Anatole
+- Andrew
+- Angel Guzman Maeso
+- Anthony Girard
+- antoin_m
+- Antoine LA
+- Antoine Mille
+- Antonino Di Bella
+- Antonio Intagliata
+- antoniofr
+- AntonLejon
+- Armando Salvador Perez
+- Arnaud Lemercier
+- Atchworks
+- Aurélien Pelletier
+- axi
+- Axome
+- Aylab
+- Aymeric AUBERTON
+- Azouz-Jribi
+- Balestrino
+- Bastien Bieri
+- bbsimon
+- bellini13
+- Benjamin PONGY
+- bercik999
+- Bersam Karbasion
+- BigZ
+- BluTiGeS
+- BMS-fenaille
+- brouillon
+- Bruno Desprez
+- Bruno Leveque
+- bumbu
+- Burhan
+- Caleydon Media
+- cam.lafit
+- Captain FLAM
+- Captain-FLAM
+- Carlos Addis
+- Casper Olsen
+- cava89
+- ccauw
+- Cedric Mouleyre
+- cedricfontaine
+- cedricgeffroy
+- cgordenne
+- cgordenne_wepika
+- Chen.Zhidong
+- Chris
+- Chris Gurk
+- Christian Kubitza
+- Christian Verardi
+- christianverardi
+- ChristopheBoucaut
+- CINS
+- cippest
+- Claire Meuriot
+- cmouleyre
+- cocoweb
+- Code Utopia
+- codvir
+- Comkwatt
+- comxd
+- Conner
+- Conner Burnett
+- Corentin Delcourt
+- Cosmin Hutanu
+- Cristiano Verardi
+- Cyril Dussert
+- damien
+- Damien Metzger
+- Damien PIQUET
+- DamienMetzger
+- Damon Skelhorn
+- Dan Hlavenka
+- danidomen
+- Daniel
+- Daniele Giachino
+- Danoosh
+- Danoosh Mir
+- Dany Maillard
+- dariusakafest
+- David
+- David Eschmeyer
+- David Gasperoni
+- David Sivocha
+- David-Julian BUCH
+- Davide
+- Davy Rolink
+- de saint leger
+- Debusschere Alexandre
+- Denis Yurevich
+- Denver Prophit Jr.
+- Desbouche Christophe
+- DevNet
+- Dh42
+- Dheeraj
+- Dheeraj Sharma
+- Dickriven Chellemboyee
+- Dimitrios Karvounaris
+- Dinis Lage
+- djbuch
+- djfm
+- dks295
+- dlage
+- doekia
+- DOEO
+- DogSports
+- Dragan Skrbic
+- DRC
+- Dream me up
+- dreammeup
+- DrySs
+- DrySs'
+- dSevere
+- Dustin
+- Dvir Julius
+- Dvir-Julius
+- e-gaulue
+- ecomm360
+- edamart
+- Edouard Gaulue
+- el-tenkova
+- elationbase
+- eleazar
+- Elitius
+- Emiliano 'AlberT' Gabrielli
+- Emilien Puget
+- emilien-puget
+- emily-d
+- Eolia
+- Eric Le Lay
+- Eric Rouvier
+- erickturcios
+- Erwan
+- Etienne Samson
+- Fabien Serny
+- Fabio Chelly
+- Fatma BOUCHEKOI
+- Fatma Bouchekoua
+- fatma.bouchekoua
+- fatmaBouchekoua
+- fchellypresta
+- Felipe Uribe
+- fetis
+- Filippo Tessarotto
+- fird
+- firstred
+- flashmaestro
+- florervd
+- Florian Kwakkenbos
+- Florian Lemaitre
+- Flowster
+- fojtcz
+- Fourat ACHOUR
+- fram
+- FrancMunoz
+- Francois Gaillard
+- Francois-Marie de Jouvencel
+- Frederic BENOIST
+- Gabriel Arama
+- Gabriel Schwardy
+- Gaelle ITZKOVITZ
+- Galaydyuk Alexandr
+- Gamesh
+- Gaspar Fernandez
+- Geoffray
+- Gerdus van Zyl
+- gfanton
+- ggedamed
+- Giant Leap Lab
+- Ginkosama
+- ginodev
+- Gordon Coubrough
+- gr4devel
+- Granger Kevin
+- Gregoire Belorgey
+- Gregory Roussac
+- grezlikowski
+- gRoussac
+- Grzegorz Zawadzki
+- gskema
+- Guilhem Fanton
+- Guillaume DELOINCE
+- Guillaume Lafarge
+- Guillaume Leseur
+- Guillaume Marsille
+- Guillaume P
+- Guisardo
+- Gustavo
+- Gytis
+- Gytis Skėma
+- Ha!*!*y
+- ha99y
+- hadjedjvincent
+- hadrich-hatem
+- harelguy
+- hibatallahAouadni
+- hiousi
+- Howard Noz
+- htrex
+- hubiktomas
+- Ian Fung
+- idnovate
+- indesign47
+- iNem0o
+- Inetbiz
+- iqit-commerce
+- ironwo0d
+- Ish Gupta
+- ITBpro.com
+- Ivan
+- Ivan Shcherbakov
+- ivancasasempere
+- J. Danse
+- Jachym Tousek
+- janisVincent
+- Jaume
+- Javsmile
+- JEAN
+- jeanbe
+- jeckyl
+- Jeremie Tabet
+- Jeroen Dewaele
+- Jerome Herry
+- Jerome Nadaud
+- jeromenadaud
+- jessylenne
+- jestemradek
+- Jérôme Nadaud
+- Joan
+- Joan Juvanteny
+- joce
+- jocelyn fournier
+- Joe Siwiak
+- Joel Sanchez
+- joemartin247
+- Joep Hendrix
+- Jonadabe
+- Jonatan Nunez
+- Jonathan Danse
+- Jonathan SAHM
+- Jorge Vargas
+- joseantgv
+- jtogrul
+- Juan G. Jordan
+- Juha Remes
+- Julien
+- Julien Bouchez
+- Julien Bourdeau
+- Julien Deniau
+- Julien Martin
+- julienbourdeau
+- julvernois
+- Kamil Szymański
+- Karel Faille
+- Kelly Karnetsky
+- kermes
+- Kevin Dunglas
+- Kevin Granger
+- Kijam Lopez
+- kiropowered
+- kompilorb
+- kpodemski
+- Krystian Podemski
+- Ladel
+- ldecoker
+- Lea Mendes Da Silva
+- Leo
+- Lesley Paone
+- LOIC ROSSET ltd
+- lozal2244
+- Luc
+- Luc Vandesype
+- Luca T.
+- Lucas CERDAN
+- LucasC
+- Lyo Nick
+- LyoNick
+- M-Mommsen
+- M03G
+- MacRoy
+- Madef
+- Madman
+- Mahdi Shad
+- Mainmich
+- makk1ntosh
+- makoso
+- Manfredi Petruso
+- manuelbcd
+- Marcin Sągol
+- marcinsz101
+- Marco Cervellin
+- Marcos
+- Marek Hanuš
+- Marius
+- Mark Wienk
+- MarkC
+- Martin Fojtik
+- martinfojtik
+- matiasiglesias
+- Mats Rynge
+- Matteo
+- Matteo Spreafico
+- MatthieuB
+- MattLoyeD
+- mauglee
+- MaX3315
+- Maxence
+- Maxence de Flotte
+- Maxime
+- Maxime - Vaisonet
+- maxime aknin
+- Maxime Biloé
+- Maxime Vasse
+- Mbechezi Mlanawo
+- mchelh
+- mchojnacki
+- mdomenjoud
+- MDWeb
+- Mehdi Badrani
+- mehrshadz
+- melvin
+- Michael Dekker
+- Michael Hjulskov
+- Michael Salihi
+- Michal Spaček
+- Michel ANTOINE
+- Michel Courtade
+- Mickael ANDRIEU
+- Mickael Desgranges
+- Mickaël Andrieu
+- Mikael Blotin
+- Mikko Hellsing
+- Milow
+- Mingsong Hu
+- minic studio
+- Mirko Esposito
+- misthero
+- Molka DJEMAL
+- moncef102
+- montes
+- mplh
+- MustangZhong
+- nache
+- natrim
+- neemzy
+- neoteknic
+- nezenmoins
+- Nicolas Giacconi
+- Nicolas Lœuillet
+- Nicolas Martin
+- Nicolas Sorosac
+- Niels Wouda
+- nihco2
+- Niklas Ekman
+- Niko Wicaksono
+- Nils-Helge Garli Hegvik
+- NinjaOfWeb
+- Nino Uzelac
+- nodexpl
+- nturato
+- oleacorner
+- Olivier Bonvalet
+- Otto Nascarella
+- Pablo Borowicz
+- paeddl
+- Pan P
+- Pan P.
+- Pan Ploenes
+- Panagiotis Tigas
+- panesarsandeep
+- Patanock
+- Patrick Mettraux
+- Patrick Weinstein
+- Pavel Novitsky
+- pbirnzain
+- Pedro J. Parra
+- Per Lejontand
+- Peter Schaeffer
+- peterept
+- Petyuska
+- PhpMadman
+- Pierre
+- Pierre Avizou
+- Pierrick
+- pilothuy
+- Piotr Kaczor
+- Piotr Moćko
+- Pliciweb - Nicolas
+- Praneeth Nidarshan
+- Presta Module
+- PrestaEdit
+- PrestaLab
+- prestamodule
+- PrestanceDesign
+- Prestanesia
+- prestarocket
+- Prestaspirit
+- Priyank Bolia
+- Profileo
+- Pronux
+- proydsl
+- psandmore
+- pxls
+- quadrateam
+- Quentin Leonetti
+- Quentin Montant
+- Quentin MONTANT - KIWIK
+- Quetzacoalt91
+- Racochejl
+- Rafael Cunha
+- Raphael
+- Raphael Droz
+- Raphael Malie
+- raphael-homann
+- raulgundin
+- rav88
+- Remi Gaillard
+- Remigiusz Jackowski
+- Renaud Sanchez - ChouetteWeb.fr
+- Rhys
+- Richard LT
+- Ricki Hirner
+- Rimas Kudelis
+- Riviere Serge
+- robert
+- Roland Schütz
+- romainberger
+- Roman Gusev
+- Roy
+- RS
+- Ruben Martins
+- runningz
+- s-duval
+- Sacha
+- Sacha FROMENT
+- sadlyblue
+- sagaradonis
+- Sam Sanchez
+- Samir Shah
+- Samy Rabih
+- Sarah Lorenzini
+- Šarūnas Jonušas
+- Saycile
+- Seb
+- Sebastien
+- Sebastien Bareyre
+- Sebastien Bocahu
+- Sebastien Monterisi
+- SebSept
+- Sergio Quinonez
+- seynaeve
+- sfroment42
+- shaffe-fr
+- Shagshag
+- ShepherdV8
+- Shipow
+- Shudrum
+- sidhujag
+- sjousse
+- sLorenzini
+- smartdatasoft
+- snamor
+- soufyan
+- soware
+- Staging
+- Stanislav Yordanov
+- Stefano Kowalke
+- Stephan Obadia
+- Steven "SDF" Sulley
+- Steven Sulley
+- Studio Kiwik
+- Sullivan SENECHAL
+- Sumh
+- svensson_david
+- Sylvain Gougouzian
+- Sylvain WITMEYER
+- Tanguy JACQUET
+- tchauviere
+- TechhDan
+- Ted Sanders
+- The Gitter Badger
+- themella
+- therampagerado
+- Thibaud Chauviere
+- Thierry Marianne
+- Thoma
+- thoma202
+- Thomas
+- Thomas Blanc
+- Thomas Ferney
+- Thomas LEVIANDIER
+- Thomas N
+- Thomas Nabord
+- thomas-aw
+- Threef
+- tiledcode
+- timsit
+- tmackay
+- TMMeilleur
+- Tom Panier
+- Tomas Liska
+- Tomas Votruba
+- Tomasz Slominski
+- tomek
+- Tony BOTALLA
+- Travis-CI
+- tucoinfo
+- Tung Dao
+- Tuni-Soft
+- Turtle
+- Txmod Xoops
+- unlocomqx
+- Valentin M
+- Valerii Savchenko
+- vAugagneur
+- venditdevs
+- Vincent Augagneur
+- Vincent Beudez
+- Vincent HADJEDJ
+- Vincent Schoener
+- Vincent Terenti
+- vincentbz
+- vinvin27
+- vinzter
+- vitekj
+- vmamykin
+- Wayann
+- web-plus
+- webbax
+- webmake
+- Wojciech Grzebieniowski
+- Xavier
+- Xavier Borderie
+- Xavier Gouley
+- Xavier POITAU
+- xitromedia
+- xKnut
+- yanngarras
+- Yannick A
+- Yolandavdvegt
+- Yoozio
+- Yuri Blanc
+- zimmi1
+- ZiZuu.com
+- Zollner Robert
+- zuzul
+
+SVN contributors:
+--------------------------------
+- aFolletete
+- aKorczak
+- aNiassy
+- bLeveque
+- bMancone
+- dMetzger
+- dSevere
+- fBrignoli
+- Francois Gaillard
+- fSerny
+- gBrunier
+- gCharmes
+- gPoulain
+- hAitmansour
+- jBreux
+- jmCollin
+- jObregon
+- lBrieu
+- lCherifi
+- lLefevre
+- mBertholino
+- mDeflotte
+- mMarinetti
+- nPellicari
+- rGaillard
+- rMalie
+- rMontagne
+- sLorenzini
+- sThiebaut
+- tDidierjean
+- vAugagneur
+- vChabot
+- vKham
+- vSchoener
